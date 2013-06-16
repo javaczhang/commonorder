@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">commonorder</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">asdsa</string>
+    <string name="title_activity_main">MostMood</string>
+    <string name="buttom_home">首页</string>
+    <string name="buttom_wall">菜肴</string>
+    <string name="buttom_camera">个性化</string>
+    <string name="buttom_message">信息</string>
+    <string name="buttom_me">更多</string>
+    <string name="choose_text">选择</string>
+    
+    <string name="tab_1">动态</string>
+    <string name="tab_2">群组</string>
+    <string name="tab_3">好友</string>
+    <string name="tab_4">会话</string>
+
+</resources>
